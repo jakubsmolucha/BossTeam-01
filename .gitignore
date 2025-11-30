@@ -1,0 +1,4 @@
+data/
+.venv
+trustguard/__pycache__/
+.env
